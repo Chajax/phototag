@@ -1,0 +1,7 @@
+piexif
+PIL
+GPSPhoto
+webdavclient3
+json
+fuzzywuzzy 
+geopy
